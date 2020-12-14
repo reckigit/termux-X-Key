@@ -35,8 +35,8 @@ while (int(pilih) <= 0) or (int(pilih) >= 3):
     
     elif (pilih == '2'):
     
-        nama = profiles [pilih]
-        xkey = xkeys [nama]
+        nama_xkey = profiles [pilih]
+        xkey = xkeys [nama_xkey]
     
     else:
     
